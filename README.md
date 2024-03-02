@@ -46,5 +46,5 @@ Start the server
 
 Backend API Endpoint Documentation Available in here
 
-[Documentation](https://documenter.getpostman.com/view/24567567/2sA2rDy1do)
+[Documentation](https://documenter.getpostman.com/view/25519474/2sA2rCTgML)
 
